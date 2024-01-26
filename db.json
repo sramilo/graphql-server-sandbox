@@ -1,0 +1,25 @@
+{
+    "persons": 
+    [
+        {
+            "name": "Samu",
+            "phone": "034-1234567",
+            "street": "street 123",
+            "city": "Ourense",
+            "id": "1"
+        },
+        {
+            "name": "Pepe",
+            "phone": "034-123456",
+            "street": "avenue 123",
+            "city": "Ourense",
+            "id": "2"
+        },
+        {
+            "name": "Juan",
+            "street": "street 321",
+            "city": "Ourense",
+            "id": "3"
+        }
+    ]
+}
